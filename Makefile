@@ -1,2 +1,2 @@
-TestEditor: TestEditor.c
-	$(CC) TestEditor.c -o TestEditor -Wall -Wextra -pedantic -std=c99
+TextEditor: TextEditor.c
+	$(CC) TextEditor.c -o TextEditor -Wall -Wextra -pedantic -std=c99
